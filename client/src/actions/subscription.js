@@ -23,9 +23,9 @@ export const handlePayment = (id, amount) => async (dispatch) => {
                     }
                 },
                 prefill: {
-                    name: "Abhishek",
-                    email: "abhishek@example.com",
-                    contact: "9813311277"
+                    name: "Satvik Shukla",
+                    email: "satvik@example.com",
+                    contact: "9336344082"
                 },
                 notes: {
                     "address": "Razorpay Corporate Office"
